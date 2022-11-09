@@ -17,7 +17,7 @@
 | Description | Lab covering standard input and output |
 | Due Date | 09-12-2022 |
 | Status | compleated |
-| Location |  |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/Std%20io%20HW |
 | Self Grade | 90 |
 | Notes | fixed all fixmes |
 
@@ -27,7 +27,7 @@
 | Description | Homework creating an input for aname a d outputing stages of hangman |
 | Due Date | 09-12-2022 |
 | Status | compleated |
-| Location | |
+| Location |https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects |
 | Self Grade | 90 |
 | Notes | compleated |
 
@@ -37,7 +37,7 @@
 | Description | Homework creating a program that calculates the perimeter and area of a triangle that us inputed by a user |
 | Due Date | 10-7-2022 |
 | Status | compleated |
-| Location |  |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/triangle |
 | Self Grade | 70 |
 | Notes | compleated |
 | Name | Value |
@@ -47,7 +47,7 @@
 | Description | Homework creating a basic calculater that applys functions two 2 numbers |
 | Due Date | 10-7-2022 |
 | Status | compleated |
-| Location | |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/functions |
 | Self Grade | 70 |
 | Notes | compleated |
 
@@ -57,7 +57,7 @@
 | Description | Homework creating conditionals to pull diffrint functions when promted by the user|
 | Due Date | 10-17-2022 |
 | Status | compleated |
-| Location | |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/Conditional |
 | Self Grade | 70 |
 | Notes | compleated |
 
@@ -67,7 +67,7 @@
 | Description | Homework promting a user to guess a number between 1 and 20 and giving the user the option to try again or exit the program|
 | Due Date | 10-26-2022 |
 | Status | compleated |
-| Location ||
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/guessNumber |
 | Self Grade | 70 |
 | Notes | compleated |
 
@@ -77,7 +77,7 @@
 | Description | Homework soliving the kattis Apaxian problem|
 | Due Date | 10-27-2022 |
 | Status | compleated |
-| Location | |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/apaxiaaans |
 | Self Grade | 70 |
 | Notes | compleated |
 

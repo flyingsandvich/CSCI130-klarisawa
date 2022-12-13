@@ -37,7 +37,7 @@
 | Description | Homework creating a program that calculates the perimeter and area of a triangle that us inputed by a user |
 | Due Date | 10-7-2022 |
 | Status | compleated |
-| Location |  |
+| Location | https://github.com/flyingsandvich/CSCI130-klarisawa/tree/main/Projects/triangle |
 | Self Grade | 70 |
 | Notes | compleated |
 | Name | Value |

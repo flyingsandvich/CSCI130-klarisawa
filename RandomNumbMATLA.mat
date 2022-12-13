@@ -1,0 +1,58 @@
+%{
+
+Name; Kodama Arisawa
+Algorithm steps for guess Number 
+	1)genorate Number
+	2)guess Number
+	3)check Number
+	4)play Again
+	
+	%}
+	
+	name();
+	
+	game();
+	
+function name()
+		playerName = input("Your name", 's);
+		fPrintf("%s, welcome to the guess number game")
+	
+end
+	
+function randomNumber()
+	secretNumber = randi(20)
+	
+	
+end
+
+function readNumber()
+	fprintf("guess andy intager from 1-20")
+	guess = input('a)
+	fprintf("your guess is: , %a)
+
+
+end
+
+function CheckGuess()
+while (guess ~= secretNumber)
+	if guess > secretNumber
+		fprintf("guess is too high\n")
+	elseif guess < secretNumber
+		fprintf("guess is to low\n)
+	else
+		fPrintf("You guessed the number")
+	end
+end
+
+function game()
+runAgain = true;
+while runAgain
+	play = imput("Enter Y or y to play\n")
+		if 	play ~= 'Y' or play ~= 'y' 
+			randomNumber();
+			readNumber();
+			CheckGuess();
+		else 
+		runAgain = false;
+		end
+end

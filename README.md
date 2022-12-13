@@ -81,5 +81,25 @@
 | Self Grade | 70 |
 | Notes | compleated |
 
+| Name | Value |
+| :--- | :--- |
+| Name | 8 - HW Guess Numbers MatLab|
+| Description | Homework promting a user to guess a number between 1 and 20 and giving the user the option to try again or exit the program using matlab|
+| Due Date | 12-14-2022 |
+| Status | compleated |
+| Location ||
+| Self Grade | 70 |
+| Notes | compleated |
+
+| Name | Value |
+| :--- | :--- |
+| Name | Final Project: hangman|
+| Description | Creating hangman that can pull words from a text file to play hangman and can promt the user to play again or quit|
+| Due Date | 12-14-2022 |
+| Status | compleated |
+| Location | |
+| Self Grade | 70 |
+| Notes | compleated |
+
 
 

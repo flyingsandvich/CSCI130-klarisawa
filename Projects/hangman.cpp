@@ -2,8 +2,7 @@
     StdIO HW1
     HANGMAN
     
-    By: <Kodama Arisawa> 
-    Date: 9/13/2021 
+    By: <Kodama Arisawa>  
     
     This program in its starte will prompt the user for name and state the progress of compleation for the game
 */

@@ -3,7 +3,7 @@
     HANGMAN
     
     By: <Kodama Arisawa> 
-    Date: 9/13/2021 
+ 
     
     This program in its starte will prompt the user for name and state the progress of compleation for the game
 */

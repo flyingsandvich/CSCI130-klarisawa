@@ -1,6 +1,6 @@
 /*
 Name  Kodama Arisawa
-Date  12-12-2021
+Date  12-13-2022
 
 This program is a hangman game that pulls from a file with 20, 6 letter words to play a hangman game, then will prompt a user to play again or quit the program
 */
